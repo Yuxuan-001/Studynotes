@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /markdown-examples
+      link: /.vitepress/notes/webpack.md
     - theme: alt
       text: 前往知识清单
       link: https://quickref.cn/
