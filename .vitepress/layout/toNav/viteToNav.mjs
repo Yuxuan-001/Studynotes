@@ -6,6 +6,6 @@ export default [
   },
   {
     text: '面试题',
-    link: '/.vitepress/interview/html.md'
+    link: '/srca/interview/html.md'
   }
 ]

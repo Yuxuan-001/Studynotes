@@ -780,7 +780,7 @@ css 绘制三角形主要是利用 `border` 属性
 
 + 首先实现下图效果
 
-![正方形效果](../assets/images/square.png)
+![正方形效果](/.vitepress/assets/images/square.png)
 
 ````css
 div {
@@ -793,7 +793,7 @@ div {
 
 + 三角
 
-![三角](../assets/images/triangle.png)
+![三角](/.vitepress/assets/images/triangle.png)
 
 ````css
 div {
@@ -807,7 +807,7 @@ div {
 
 + 三角2
 
-![三角2](../assets/images/triangle-left.png)
+![三角2](/.vitepress/assets/images/triangle-left.png)
 
 ````css
 div {
@@ -822,7 +822,7 @@ div {
 
 ## 22.实现一个扇形
 
-![扇形](../assets/images/sector.png)
+![扇形](/.vitepress/assets/images/sector.png)
 
 ````css
 div{

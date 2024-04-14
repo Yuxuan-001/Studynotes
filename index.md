@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "狱轩"
-  text: "学习笔记"
+  name: '狱轩'
+  text: '学习笔记'
   tagline: 马行软地易失蹄，人贪安逸易失志。
   image:
     src: /huohuo.png
@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /.vitepress/notes/webpack.md
+      link: /srca/notes/webpack.md
     - theme: alt
       text: 前往知识清单
       link: https://quickref.cn/
@@ -25,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

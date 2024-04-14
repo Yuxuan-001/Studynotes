@@ -1,13 +1,15 @@
-/*左侧导航栏
-笔记侧边栏
-面试侧边栏
-*/
-import designPatterns from '../../notes/designPatterns/designPatterns.mjs'
+/**
+ * 左侧导航栏
+ * 点击显示对应侧边栏
+    笔记侧边栏
+    面试侧边栏
+**/
+import designPatterns from '../../../srca/notes/designPatterns/designPatterns.mjs'
 export const noteSideBar = [
   {
     text: '学习',
     items: [
-      { text: 'webpack', link: '/.vitepress/notes/webpack' },
+      { text: 'webpack', link: '/srca/notes/webpack' },
       {
         text: '设计模式',
         collapsed: true,
@@ -22,19 +24,19 @@ export const interviewSideBar = [
     items: [
       {
         text: 'HTML',
-        link: '/.vitepress/interview/html.md'
+        link: '/srca/interview/html.md'
       },
       {
         text: 'CSS',
-        link: '/.vitepress/interview/css.md'
+        link: '/srca/interview/css.md'
       },
       {
         text: 'JS',
-        link: '/.vitepress/interview/js.md'
+        link: '/srca/interview/js.md'
       },
       {
         text: 'Vue',
-        link: '/.vitepress/interview/vue.md'
+        link: '/srca/interview/vue.md'
       }
     ]
   }
